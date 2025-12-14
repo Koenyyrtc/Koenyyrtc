@@ -1,6 +1,5 @@
 <h3 align="center">Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=koenyyrtc" alt="koenyyrtc" /></a> </p>
 
 - How to reach me **koenc.coding@gmail.com**
 
